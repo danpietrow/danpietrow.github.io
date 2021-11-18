@@ -3,26 +3,28 @@
 ---
 ## Data Cleaning and EDA: Shark Attack Dataset
 
-A complete data cleaning project I did in my free time, focussed on the Shark Attack dataset from www.SharkAttackFile.net. This project was an opportunity for me to practice data cleaning, geocoding and data visualisation with Tableau.
+<div style="text-align: justify">A complete data cleaning project I did in my free time, focussed on the Shark Attack dataset from www.SharkAttackFile.net. This project was an opportunity for me to practice data cleaning, geocoding and data visualisation with Tableau.</div>
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
 
 <center><img src="images/FatalDashboard.png?raw=true"/></center>
 ---
-## Kaggle Competition: House Prices Prediction
+## Kaggle Competition: House Prices Prediction with Catboost
 
-<a href="https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY" target="_blank">House Prices - Advanced Regression Techniques (Kaggle Competition)</a>
-<!-- [My Tableau Page](https://public.tableau.com/app/profile/dan.pietrow) -->
-<img src="images/housesbanner.png?raw=true"/>
+<div style="text-align: justify">I did this Kaggle competition to practice EDA, outlier handling and Feature Engineering. I managed to rank in the top 20% with a Root Mean Squared Error of 0.12664.</div>
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
+
+<center><img src="images/housesbanner.png?raw=true"/></center>
 
 ---
-## Tableau Page
-<a href="https://public.tableau.com/app/profile/dan.pietrow" target="_blank">My Tableau Page</a>
-<!-- [My Tableau Page](https://public.tableau.com/app/profile/dan.pietrow) -->
+## My Tableau Page
+
+<div style="text-align: justify">This is my Tableau Public Account where you can view the vizes I created.</div>
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://public.tableau.com/app/profile/dan.pietrow)
+
 <img src="images/SpeciesDashboard.png?raw=true"/>
-
----
-
 
 
 
