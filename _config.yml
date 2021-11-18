@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   AMRC, Sheffield
   <br><br>
-  <a href="https://www.linkedin.com/in/danpietrow/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/danpietrow/" target="_blank" >View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: G-NQYPFZNBBK # your Google Analytics tracking ID here
