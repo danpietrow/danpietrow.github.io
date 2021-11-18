@@ -22,7 +22,7 @@
 
 <div style="text-align: justify">This is my Tableau Public Account where you can view the vizes I created.</div>
 <br></br>
-[![Run in Google Colab](https://img.shields.io/badge/Tableau-Open Tableau-E97627?logo=Google&logoColor=FDBA18)](https://public.tableau.com/app/profile/dan.pietrow)
+[![Run in Google Colab](https://img.shields.io/badge/Tableau-Open Tableau-E97627?logo=Tableau)](https://public.tableau.com/app/profile/dan.pietrow)
 <br></br>
 <img src="images/SpeciesDashboard.png?raw=true"/>
 
