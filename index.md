@@ -15,7 +15,7 @@
 <img src="images/SpeciesDashboard.png?raw=true"/>
 
 ---
-<a href="https://public.tableau.com/app/profile/dan.pietrow" target="_blank">Shark Attack Dataset Cleaning</a>
+<a href="https://public.tableau.com/app/profile/dan.pietrow" target="_blank">My Tableau Page</a>
 <!-- [My Tableau Page](https://public.tableau.com/app/profile/dan.pietrow) -->
 <img src="images/SpeciesDashboard.png?raw=true"/>
 
