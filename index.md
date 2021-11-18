@@ -4,7 +4,8 @@
 
 ### Data Cleaning and EDA
 
-[Shark Dataset Cleaning](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
+<a href="https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY" target="_blank">Shark Attack Dataset Cleaning</a>
+[Shark Attack Dataset Cleaning](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
 <img src="images/FatalDashboard.png?raw=true"/>
 
 ---
