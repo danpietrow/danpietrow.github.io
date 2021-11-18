@@ -4,18 +4,18 @@
 
 ### Data Cleaning and EDA
 
-[Shark Dataset Cleaning](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Shark Dataset Cleaning](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
+<img src="images/FatalDashboard.png?raw=true"/>
 
 ---
 [My Tableau Page](https://public.tableau.com/app/profile/dan.pietrow)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/SpeciesDashboard.png?raw=true"/>
 
 ---
 
 ### Kaggle Competitions
 - [House Prices - Advanced Regression Techniques](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/housesbanner.png?raw=true"/>
 
 ---
 
