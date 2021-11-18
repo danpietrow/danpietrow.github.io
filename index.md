@@ -5,12 +5,9 @@
 
 A complete data cleaning project I did in my free time, focussed on the Shark Attack dataset from www.SharkAttackFile.net. This project was an opportunity for me to practice data cleaning, geocoding and data visualisation with Tableau.
 
-[![View on Google Colab](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
 
-<a href="https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY" target="_blank">Shark Attack Dataset Cleaning and EDA</a>
-<!-- [Shark Attack Dataset Cleaning](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY) -->
-<img src="images/FatalDashboard.png?raw=true"/>
-
+<center><img src="images/FatalDashboard.png?raw=true"/></center>
 ---
 ## Kaggle Competition: House Prices Prediction
 
