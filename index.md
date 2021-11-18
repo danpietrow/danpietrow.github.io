@@ -4,9 +4,9 @@
 ## Data Cleaning and EDA: Shark Attack Dataset
 
 <div style="text-align: justify">A complete data cleaning project I did in my free time, focussed on the Shark Attack dataset from www.SharkAttackFile.net. This project was an opportunity for me to practice data cleaning, geocoding and data visualisation with Tableau.</div>
-<div>
+<br><br>
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-F9AB00?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
-</div>
+
 <center><img src="images/FatalDashboard.png?raw=true"/></center>
 ---
 ## Kaggle Competition: House Prices Prediction with Catboost
