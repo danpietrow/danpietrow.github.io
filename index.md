@@ -12,7 +12,7 @@
 
 <a href="https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY" target="_blank">House Prices - Advanced Regression Techniques (Kaggle Competition)</a>
 <!-- [My Tableau Page](https://public.tableau.com/app/profile/dan.pietrow) -->
-<img src="images/SpeciesDashboard.png?raw=true"/>
+<img src="images/housesbanner.png?raw=true"/>
 
 ---
 <a href="https://public.tableau.com/app/profile/dan.pietrow" target="_blank">My Tableau Page</a>
