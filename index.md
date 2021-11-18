@@ -13,7 +13,7 @@
 
 <div style="text-align: justify">I did this Kaggle competition to practice EDA, outlier handling and feature engineering. I managed to rank in the top 20% with a Root Mean Squared Error of 0.12664.</div>
 <br><br>
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-F9AB00?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-F9AB00?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1xN_A4KvXR5Ggb1evfJ8aT1YNjMCQB4pS?usp=sharing)
 <br><br>
 <center><img src="images/housesbanner.png?raw=true"/></center>
 
