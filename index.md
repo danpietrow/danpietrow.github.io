@@ -5,7 +5,7 @@
 
 <div style="text-align: justify">A complete data cleaning project I did in my free time, focussed on the Shark Attack dataset from www.SharkAttackFile.net. This project was an opportunity for me to practice data cleaning, geocoding and data visualisation with Tableau.</div>
 <br><br>
-[![Run in Google Colab](https://img.shields.io/badge/Colab-View my code in Colab-F9AB00?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1683XR1ShUnWxbDk6DC7cSewFijdxpEOf?authuser=1#scrollTo=JZQGr89k6TGY)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-View my code in Colab-F9AB00?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1qFKxTvu092Q9AhkE-1an81QY_ebmxiQL?usp=sharing)
 [![View the EDA in Tableau](https://img.shields.io/badge/Tableau-View the EDA in Tableau-E97627?logo=Tableau&logoColor=E97627)](https://public.tableau.com/views/RecordedSharkAttacksMapWorldWideVizTableau/FatalDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 <br><br>
 <center><img src="images/FatalDashboard.png?raw=true"/></center>
